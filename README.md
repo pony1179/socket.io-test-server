@@ -7,3 +7,6 @@
 ### POST http://127.0.0.1:3001/message 
 ### POST http://127.0.0.1:3002/message 
 ### POST http://127.0.0.1:3003/message 
+
+### 4. attachment 目录
+#### 目录下为 nginx 配置 socket.io 模版
